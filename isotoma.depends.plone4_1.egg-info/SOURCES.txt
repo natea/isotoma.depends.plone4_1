@@ -1,0 +1,10 @@
+MANIFEST.in
+README.rst
+requirements.txt
+setup.py
+isotoma.depends.plone4_1.egg-info/PKG-INFO
+isotoma.depends.plone4_1.egg-info/SOURCES.txt
+isotoma.depends.plone4_1.egg-info/dependency_links.txt
+isotoma.depends.plone4_1.egg-info/not-zip-safe
+isotoma.depends.plone4_1.egg-info/requires.txt
+isotoma.depends.plone4_1.egg-info/top_level.txt
