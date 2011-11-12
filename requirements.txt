@@ -110,7 +110,8 @@ z3c.formwidget.query==0.5
 plone.z3cform==0.7.7
 zope.app.publisher==3.10.2
 plone.keyring==2.0
-elementtree==1.2.7-20070827-preview
+#elementtree==1.2.7-20070827-preview
+-e svn+http://svn.effbot.org/public/tags/elementtree-1.2.7-20070827-preview/#egg=elementtree-1.2.7-20070827-preview
 plone.autoform==1.0
 plone.supermodel==1.0.3
 five.globalrequest==1.0
